@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="twc.Automation.SmokeTestCases.smokeTestCases">
+        <methods>
+          <include name="Smoke_Test_CaseVerify_health_and_activities_card_iu"/>
+          <include name="Smoke_Test_CaseVerify_mapscard_iu"/>
+          <include name="After_Test"/>
+          <include name="Before_Test"/>
+          <include name="Before_Test"/>
+        </methods>
+      </class> <!-- twc.Automation.SmokeTestCases.smokeTestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

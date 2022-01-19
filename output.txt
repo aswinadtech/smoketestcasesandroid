@@ -1,0 +1,5 @@
+This is test output
+creativeId Value is  104542185377
+videoUrl Value is   https://link.theplatform.com/s/JKPqfC/media/_dt8O_5jJN1N
+fourthPartyBeacon Value is  https://pubads.g.doubleclick.net/gampad/ad?iu=/6075/weather1_2&sz=1x2&c=1141942079
+================= Verify BB Call In Test Mode Test Case End =========================

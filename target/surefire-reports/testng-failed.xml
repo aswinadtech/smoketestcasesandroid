@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="twc.Automation.SmokeTestCases.smokeTestCases">
+        <methods>
+          <include name="Smoke_Test_Case_Verify_sz_Radar_Maps_deatailspage_adCall_FTL"/>
+          <include name="beforeClass"/>
+          <include name="Smoke_Test_amazon_aax_Dailydetails_Day11adcall"/>
+          <include name="Smoke_Test_Case_Verify_Radar_Maps_deatailspage_adCall_FTL"/>
+        </methods>
+      </class> <!-- twc.Automation.SmokeTestCases.smokeTestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

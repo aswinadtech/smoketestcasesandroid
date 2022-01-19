@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="58" passed="58">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="805086" started-at="2022-01-19T10:46:38Z" finished-at="2022-01-19T11:00:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="805086" started-at="2022-01-19T10:46:38Z" finished-at="2022-01-19T11:00:03Z">
+      <class name="twc.Automation.SmokeTestCases.smokeTestCases">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="beforeClass" is-config="true" duration-ms="258504" started-at="2022-01-19T16:16:38Z" finished-at="2022-01-19T16:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Smoke_Test_CaseVerify_Homescreen_marquee_adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_CaseVerify_Homescreen_marquee_adCall_FTL" duration-ms="409019" started-at="2022-01-19T16:20:56Z" finished-at="2022-01-19T16:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_CaseVerify_Homescreen_marquee_adCall_FTL -->
+        <test-method status="PASS" signature="Verify_AlertCenterAd()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Verify_AlertCenterAd" duration-ms="895" started-at="2022-01-19T16:27:45Z" finished-at="2022-01-19T16:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_AlertCenterAd -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_feed_1adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_feed_1adcall_FTL" duration-ms="855" started-at="2022-01-19T16:27:46Z" finished-at="2022-01-19T16:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_feed_1adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_feed_2adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_feed_2adcall_FTL" duration-ms="588" started-at="2022-01-19T16:27:47Z" finished-at="2022-01-19T16:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_feed_2adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_feed_3adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_feed_3adCall_FTL" duration-ms="505" started-at="2022-01-19T16:27:48Z" finished-at="2022-01-19T16:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_feed_3adCall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_feed_4adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_feed_4adcall_FTL" duration-ms="624" started-at="2022-01-19T16:27:48Z" finished-at="2022-01-19T16:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_feed_4adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_feed_5adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_feed_5adCall_FTL" duration-ms="793" started-at="2022-01-19T16:27:49Z" finished-at="2022-01-19T16:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_feed_5adCall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Case_Verify_Radar_Maps_deatailspage_adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Case_Verify_Radar_Maps_deatailspage_adCall_FTL" duration-ms="451" started-at="2022-01-19T16:27:50Z" finished-at="2022-01-19T16:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Case_Verify_Radar_Maps_deatailspage_adCall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_CaseVerify_Today_details_page_iu_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_CaseVerify_Today_details_page_iu_FTL" duration-ms="536" started-at="2022-01-19T16:27:50Z" finished-at="2022-01-19T16:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_CaseVerify_Today_details_page_iu_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_Air_Quality_contentpage_adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_Air_Quality_contentpage_adCall_FTL" duration-ms="432" started-at="2022-01-19T16:27:51Z" finished-at="2022-01-19T16:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_Air_Quality_contentpage_adCall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_outdoor_detailpage_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_outdoor_detailpage_adcall_FTL" duration-ms="386" started-at="2022-01-19T16:27:51Z" finished-at="2022-01-19T16:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_outdoor_detailpage_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aaxSlot_feed1_adCall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aaxSlot_feed1_adCall" duration-ms="335" started-at="2022-01-19T16:27:51Z" finished-at="2022-01-19T16:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aaxSlot_feed1_adCall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aaxSlot_feed2_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aaxSlot_feed2_adcall" duration-ms="294" started-at="2022-01-19T16:27:52Z" finished-at="2022-01-19T16:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aaxSlot_feed2_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aaxSlot_feed3_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aaxSlot_feed3_adcall" duration-ms="356" started-at="2022-01-19T16:27:52Z" finished-at="2022-01-19T16:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aaxSlot_feed3_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aaxSlot_feed4_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aaxSlot_feed4_adcall" duration-ms="357" started-at="2022-01-19T16:27:52Z" finished-at="2022-01-19T16:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aaxSlot_feed4_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aaxSlot_feed5_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aaxSlot_feed5_adcall" duration-ms="386" started-at="2022-01-19T16:27:53Z" finished-at="2022-01-19T16:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aaxSlot_feed5_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_mapsdetails_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_mapsdetails_adcall" duration-ms="285" started-at="2022-01-19T16:27:53Z" finished-at="2022-01-19T16:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_mapsdetails_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_today_deatailcard()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_today_deatailcard" duration-ms="351" started-at="2022-01-19T16:27:53Z" finished-at="2022-01-19T16:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_today_deatailcard -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Airquality_deatailcard()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Airquality_deatailcard" duration-ms="320" started-at="2022-01-19T16:27:54Z" finished-at="2022-01-19T16:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Airquality_deatailcard -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_amazon_SlotId_outdoor_details()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_amazon_SlotId_outdoor_details" duration-ms="351" started-at="2022-01-19T16:27:54Z" finished-at="2022-01-19T16:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_amazon_SlotId_outdoor_details -->
+        <test-method status="PASS" signature="Smoke_Test_CaseVerify_sz_Homescreen_marquee_adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_CaseVerify_sz_Homescreen_marquee_adCall_FTL" duration-ms="420" started-at="2022-01-19T16:27:54Z" finished-at="2022-01-19T16:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_CaseVerify_sz_Homescreen_marquee_adCall_FTL -->
+        <test-method status="PASS" signature="Verify_sz_AlertCenterAd()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Verify_sz_AlertCenterAd" duration-ms="454" started-at="2022-01-19T16:27:55Z" finished-at="2022-01-19T16:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_sz_AlertCenterAd -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_sz_feed_1_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_sz_feed_1_adcall_FTL" duration-ms="399" started-at="2022-01-19T16:27:55Z" finished-at="2022-01-19T16:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_sz_feed_1_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_sz_feed_2_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_sz_feed_2_adcall_FTL" duration-ms="402" started-at="2022-01-19T16:27:56Z" finished-at="2022-01-19T16:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_sz_feed_2_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_sz_feed_3_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_sz_feed_3_adcall_FTL" duration-ms="414" started-at="2022-01-19T16:27:56Z" finished-at="2022-01-19T16:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_sz_feed_3_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_sz_feed_4_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_sz_feed_4_adcall_FTL" duration-ms="471" started-at="2022-01-19T16:27:57Z" finished-at="2022-01-19T16:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_sz_feed_4_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_verifying_sz_feed_5_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_verifying_sz_feed_5_adcall_FTL" duration-ms="429" started-at="2022-01-19T16:27:57Z" finished-at="2022-01-19T16:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_verifying_sz_feed_5_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Case_Verify_sz_Radar_Maps_deatailspage_adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Case_Verify_sz_Radar_Maps_deatailspage_adCall_FTL" duration-ms="425" started-at="2022-01-19T16:27:57Z" finished-at="2022-01-19T16:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Case_Verify_sz_Radar_Maps_deatailspage_adCall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Case_Verify_sz_Today_details_page_iu_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Case_Verify_sz_Today_details_page_iu_FTL" duration-ms="450" started-at="2022-01-19T16:27:58Z" finished-at="2022-01-19T16:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Case_Verify_sz_Today_details_page_iu_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_sz_AirQuality_contentpage_adCall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_sz_AirQuality_contentpage_adCall_FTL" duration-ms="430" started-at="2022-01-19T16:27:58Z" finished-at="2022-01-19T16:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_sz_AirQuality_contentpage_adCall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_sz_outdoor_detailpage_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_sz_outdoor_detailpage_adcall_FTL" duration-ms="402" started-at="2022-01-19T16:27:59Z" finished-at="2022-01-19T16:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_sz_outdoor_detailpage_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_hourly_detailpage_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_hourly_detailpage_adcall_FTL" duration-ms="23086" started-at="2022-01-19T16:27:59Z" finished-at="2022-01-19T16:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_hourly_detailpage_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_hourly1_detailpage_bigad_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_hourly1_detailpage_bigad_adcall_FTL" duration-ms="45" started-at="2022-01-19T16:28:22Z" finished-at="2022-01-19T16:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_hourly1_detailpage_bigad_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_hourly2_detailpage_bigad_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_hourly2_detailpage_bigad_adcall_FTL" duration-ms="41" started-at="2022-01-19T16:28:22Z" finished-at="2022-01-19T16:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_hourly2_detailpage_bigad_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_hourly3__bigad_detailpage_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_hourly3__bigad_detailpage_adcall_FTL" duration-ms="45" started-at="2022-01-19T16:28:22Z" finished-at="2022-01-19T16:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_hourly3__bigad_detailpage_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_sz_hourly_detailpage_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_sz_hourly_detailpage_adcall_FTL" duration-ms="79" started-at="2022-01-19T16:28:22Z" finished-at="2022-01-19T16:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_sz_hourly_detailpage_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_sz_hourly1_detailpage_bigad_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_sz_hourly1_detailpage_bigad_adcall_FTL" duration-ms="36" started-at="2022-01-19T16:28:22Z" finished-at="2022-01-19T16:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_sz_hourly1_detailpage_bigad_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_sz_hourly2_detailpage_bigad_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_sz_hourly2_detailpage_bigad_adcall_FTL" duration-ms="35" started-at="2022-01-19T16:28:22Z" finished-at="2022-01-19T16:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_sz_hourly2_detailpage_bigad_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_sz_hourly3__bigad_detailpage_adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verify_sz_hourly3__bigad_detailpage_adcall_FTL" duration-ms="45" started-at="2022-01-19T16:28:23Z" finished-at="2022-01-19T16:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_sz_hourly3__bigad_detailpage_adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Hourly_details_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Hourly_details_adcall" duration-ms="31" started-at="2022-01-19T16:28:23Z" finished-at="2022-01-19T16:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Hourly_details_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Hourly1_bigaddetails_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Hourly1_bigaddetails_adcall" duration-ms="27" started-at="2022-01-19T16:28:23Z" finished-at="2022-01-19T16:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Hourly1_bigaddetails_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Hourly2_bigaddetails_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Hourly2_bigaddetails_adcall" duration-ms="28" started-at="2022-01-19T16:28:23Z" finished-at="2022-01-19T16:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Hourly2_bigaddetails_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Hourly3_bigaddetails_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Hourly3_bigaddetails_adcall" duration-ms="28" started-at="2022-01-19T16:28:23Z" finished-at="2022-01-19T16:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Hourly3_bigaddetails_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_newdailydetails_day1adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verifying_newdailydetails_day1adcall_FTL" duration-ms="19709" started-at="2022-01-19T16:28:23Z" finished-at="2022-01-19T16:28:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_newdailydetails_day1adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Daily_details_Day1_adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Daily_details_Day1_adcall" duration-ms="69" started-at="2022-01-19T16:28:42Z" finished-at="2022-01-19T16:28:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Daily_details_Day1_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_sz_Verifying_newdailydetails_day1adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_sz_Verifying_newdailydetails_day1adcall_FTL" duration-ms="92" started-at="2022-01-19T16:28:42Z" finished-at="2022-01-19T16:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_sz_Verifying_newdailydetails_day1adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_newdailydetails_day2adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verifying_newdailydetails_day2adcall_FTL" duration-ms="20095" started-at="2022-01-19T16:28:43Z" finished-at="2022-01-19T16:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_newdailydetails_day2adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Dailydetails_Day2adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Dailydetails_Day2adcall" duration-ms="19" started-at="2022-01-19T16:29:03Z" finished-at="2022-01-19T16:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Dailydetails_Day2adcall -->
+        <test-method status="PASS" signature="Smoke_Test_sz_Verifying_newdailydetails_day2adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_sz_Verifying_newdailydetails_day2adcall_FTL" duration-ms="22" started-at="2022-01-19T16:29:03Z" finished-at="2022-01-19T16:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_sz_Verifying_newdailydetails_day2adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_newdailydetails_day3adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verifying_newdailydetails_day3adcall_FTL" duration-ms="19854" started-at="2022-01-19T16:29:03Z" finished-at="2022-01-19T16:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_newdailydetails_day3adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Dailydetails_Day3adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Dailydetails_Day3adcall" duration-ms="12" started-at="2022-01-19T16:29:23Z" finished-at="2022-01-19T16:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Dailydetails_Day3adcall -->
+        <test-method status="PASS" signature="Smoke_Test_sz_Verifying_newdailydetails_day3adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_sz_Verifying_newdailydetails_day3adcall_FTL" duration-ms="15" started-at="2022-01-19T16:29:23Z" finished-at="2022-01-19T16:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_sz_Verifying_newdailydetails_day3adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_newdailydetails_day4adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verifying_newdailydetails_day4adcall_FTL" duration-ms="19982" started-at="2022-01-19T16:29:23Z" finished-at="2022-01-19T16:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_newdailydetails_day4adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Dailydetails_Day4adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Dailydetails_Day4adcall" duration-ms="15" started-at="2022-01-19T16:29:43Z" finished-at="2022-01-19T16:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Dailydetails_Day4adcall -->
+        <test-method status="PASS" signature="Smoke_Test_sz_Verifying_newdailydetails_day4adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_sz_Verifying_newdailydetails_day4adcall_FTL" duration-ms="16" started-at="2022-01-19T16:29:43Z" finished-at="2022-01-19T16:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_sz_Verifying_newdailydetails_day4adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_newdailydetails_day5adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_Verifying_newdailydetails_day5adcall_FTL" duration-ms="20085" started-at="2022-01-19T16:29:43Z" finished-at="2022-01-19T16:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_newdailydetails_day5adcall_FTL -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Dailydetails_Day5adcall()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_amazon_aax_Dailydetails_Day5adcall" duration-ms="23" started-at="2022-01-19T16:30:03Z" finished-at="2022-01-19T16:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Dailydetails_Day5adcall -->
+        <test-method status="PASS" signature="Smoke_Test_sz_Verifying_newdailydetails_day5adcall_FTL()[pri:0, instance:twc.Automation.SmokeTestCases.smokeTestCases@71a9b4c7]" name="Smoke_Test_sz_Verifying_newdailydetails_day5adcall_FTL" duration-ms="22" started-at="2022-01-19T16:30:03Z" finished-at="2022-01-19T16:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_sz_Verifying_newdailydetails_day5adcall_FTL -->
+      </class> <!-- twc.Automation.SmokeTestCases.smokeTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

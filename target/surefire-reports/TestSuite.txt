@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 88, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 1,228.49 s <<< FAILURE! - in TestSuite
+Smoke_Test_Case_Verify_Radar_Maps_deatailspage_adCall_FTL(twc.Automation.SmokeTestCases.smokeTestCases)  Time elapsed: 0.606 s  <<< FAILURE!
+java.lang.AssertionError: iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fmaps ad call is not present
+	at twc.Automation.SmokeTestCases.smokeTestCases.Smoke_Test_Case_Verify_Radar_Maps_deatailspage_adCall_FTL(smokeTestCases.java:171)
+
+Smoke_Test_Case_Verify_sz_Radar_Maps_deatailspage_adCall_FTL(twc.Automation.SmokeTestCases.smokeTestCases)  Time elapsed: 1.12 s  <<< FAILURE!
+java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fmaps not found in charles session, hence Custom Parameter: sz validation skipped
+	at twc.Automation.SmokeTestCases.smokeTestCases.Smoke_Test_Case_Verify_sz_Radar_Maps_deatailspage_adCall_FTL(smokeTestCases.java:390)
+
+Smoke_Test_amazon_aax_Dailydetails_Day11adcall(twc.Automation.SmokeTestCases.smokeTestCases)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: slot id: 6c5a145d-9198-48f4-adfd-08f05557eace is not present
+	at twc.Automation.SmokeTestCases.smokeTestCases.Smoke_Test_amazon_aax_Dailydetails_Day11adcall(smokeTestCases.java:1023)
+

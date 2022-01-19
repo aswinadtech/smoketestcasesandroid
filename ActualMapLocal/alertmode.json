@@ -1,0 +1,380 @@
+{
+	"id": "33.75,-84.39",
+	"vt1pollenobs":
+
+	{
+		"reportDate": "2016-11-10T12:15:00Z",
+		"totalPollenCount": 6,
+		"tree": 1,
+		"grass": 0,
+		"weed": 1,
+		"mold": null
+	}
+
+
+	,
+	"vt1pollenforecast":
+
+
+
+	{
+		"reportDate": ["2016-11-11T07:00:00.000-05:00", "2016-11-12T07:00:00.000-05:00", "2016-11-13T07:00:00.000-05:00", "2016-11-14T07:00:00.000-05:00"],
+		"tree": [0, 0, 0, 0],
+		"grass": [0, 0, 0, 0],
+		"weed": [0, 0, 0, 0]
+	}
+
+
+
+	,
+	"vt1pastpollen":
+
+
+
+	{
+		"reportDate": ["2016-11-10T12:16:14.000-05:00"],
+		"tree": [1],
+		"grass": [0],
+		"weed": [1],
+		"mold": [null]
+	}
+
+
+
+	,
+	"vt1breathingindex":
+
+
+
+	{
+		"reportDate": ["2016-11-11T07:00:00.000-05:00", "2016-11-12T07:00:00.000-05:00", "2016-11-13T07:00:00.000-05:00", "2016-11-14T07:00:00.000-05:00", "2016-11-15T07:00:00.000-05:00", "2016-11-16T07:00:00.000-05:00", "2016-11-17T07:00:00.000-05:00", "2016-11-18T07:00:00.000-05:00", "2016-11-19T07:00:00.000-05:00", "2016-11-20T07:00:00.000-05:00"],
+		"breathingIndexMorning": [10, 9, 9, 10, 10, 10, 10, 10, 10, 9],
+		"breathingPhraseMorning": ["Very Good", "Very Good", "Very Good", "Very Good", "Very Good", "Very Good", "Very Good", "Very Good", "Very Good", "Very Good"],
+		"breathingIndexAfternoon": [9, 8, 9, 9, 9, 9, 9, 9, 8, 7],
+		"breathingPhraseAfternoon": ["Very Good", "Good", "Very Good", "Very Good", "Very Good", "Very Good", "Very Good", "Very Good", "Good", "Good"]
+	}
+
+
+
+	,
+	"vt1dailyforecast":
+
+	{
+		"validDate": ["2016-11-11T07:00:00-0500", "2016-11-12T07:00:00-0500", "2016-11-13T07:00:00-0500", "2016-11-14T07:00:00-0500", "2016-11-15T07:00:00-0500", "2016-11-16T07:00:00-0500", "2016-11-17T07:00:00-0500", "2016-11-18T07:00:00-0500", "2016-11-19T07:00:00-0500", "2016-11-20T07:00:00-0500", "2016-11-21T07:00:00-0500", "2016-11-22T07:00:00-0500", "2016-11-23T07:00:00-0500", "2016-11-24T07:00:00-0500", "2016-11-25T07:00:00-0500"],
+		"sunrise": ["2016-11-11T07:06:15-0500", "2016-11-12T07:07:10-0500", "2016-11-13T07:08:05-0500", "2016-11-14T07:09:01-0500", "2016-11-15T07:09:56-0500", "2016-11-16T07:10:52-0500", "2016-11-17T07:11:47-0500", "2016-11-18T07:12:43-0500", "2016-11-19T07:13:38-0500", "2016-11-20T07:14:33-0500", "2016-11-21T07:15:29-0500", "2016-11-22T07:16:24-0500", "2016-11-23T07:17:19-0500", "2016-11-24T07:18:13-0500", "2016-11-25T07:19:08-0500"],
+		"sunset": ["2016-11-11T17:36:25-0500", "2016-11-12T17:35:45-0500", "2016-11-13T17:35:07-0500", "2016-11-14T17:34:30-0500", "2016-11-15T17:33:55-0500", "2016-11-16T17:33:21-0500", "2016-11-17T17:32:49-0500", "2016-11-18T17:32:19-0500", "2016-11-19T17:31:51-0500", "2016-11-20T17:31:25-0500", "2016-11-21T17:31:00-0500", "2016-11-22T17:30:37-0500", "2016-11-23T17:30:16-0500", "2016-11-24T17:29:57-0500", "2016-11-25T17:29:40-0500"],
+		"moonIcon": ["WXG", "WXG", "F", "F", "WNG", "WNG", "WNG", "WNG", "WNG", "WNG", "LQ", "WNC", "WNC", "WNC", "WNC"],
+		"moonPhrase": ["Waxing Gibbous", "Waxing Gibbous", "Full Moon", "Full Moon", "Waning Gibbous", "Waning Gibbous", "Waning Gibbous", "Waning Gibbous", "Waning Gibbous", "Waning Gibbous", "Last Quarter", "Waning Crescent", "Waning Crescent", "Waning Crescent", "Waning Crescent"],
+		"moonrise": ["2016-11-11T15:53:32-0500", "2016-11-12T16:35:29-0500", "2016-11-13T17:19:41-0500", "2016-11-14T18:08:43-0500", "2016-11-15T19:01:53-0500", "2016-11-16T19:59:30-0500", "2016-11-17T21:00:07-0500", "2016-11-18T22:01:56-0500", "2016-11-19T23:03:03-0500", "", "2016-11-21T00:02:40-0500", "2016-11-22T01:00:08-0500", "2016-11-23T01:55:46-0500", "2016-11-24T02:50:18-0500", "2016-11-25T03:43:32-0500"],
+		"moonset": ["2016-11-11T03:30:33-0500", "2016-11-12T04:38:45-0500", "2016-11-13T05:47:59-0500", "2016-11-14T06:58:44-0500", "2016-11-15T08:08:43-0500", "2016-11-16T09:15:28-0500", "2016-11-17T10:17:49-0500", "2016-11-18T11:12:58-0500", "2016-11-19T12:02:02-0500", "2016-11-20T12:45:12-0500", "2016-11-21T13:23:03-0500", "2016-11-22T13:58:14-0500", "2016-11-23T14:31:23-0500", "2016-11-24T15:03:00-0500", "2016-11-25T15:34:48-0500"],
+		"dayOfWeek": ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+		"day": {
+			"dayPartName": ["Today", "Tomorrow", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+			"precipPct": [0, 0, 0, 10, 20, 0, 0, 0, 10, 0, 0, 0, 0, 20, 30],
+			"precipAmt": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01],
+			"precipType": ["rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain"],
+			"temperature": [69, 63, 64, 69, 69, 67, 66, 69, 66, 63, 65, 68, 68, 72, 68],
+			"uvIndex": [4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3],
+			"uvDescription": ["Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate"],
+			"icon": [30, 32, 30, 32, 34, 32, 32, 32, 32, 32, 32, 34, 30, 30, 39],
+			"iconExtended": [3000, 3200, 3000, 3200, 3400, 3200, 3200, 3200, 3200, 3200, 3200, 3400, 3000, 3000, 6103],
+			"phrase": ["Partly Cloudy", "Sunny", "Partly Cloudy", "Sunny", "Mostly Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Mostly Sunny", "Partly Cloudy", "Partly Cloudy", "AM Showers"],
+			"narrative": ["A mix of clouds and sun. Areas of smoke and haze are possible, reducing visibility at times. High 69F. Winds NW at 10 to 15 mph.", "Mostly sunny. High 63F. Winds ENE at 10 to 20 mph.", "Partly to mostly cloudy. High 64F. Winds E at 5 to 10 mph.", "Mainly sunny. High 69F. Winds NW at 5 to 10 mph.", "Mostly sunny skies. High 69F. Winds WNW at 5 to 10 mph.", "A mainly sunny sky. High 67F. Winds NW at 10 to 15 mph.", "A mainly sunny sky. High 66F. Winds NNW at 5 to 10 mph.", "Sunny skies. High 69F. Winds SE at 5 to 10 mph.", "A mainly sunny sky. High 66F. Winds WNW at 10 to 15 mph.", "A mainly sunny sky. High 63F. Winds NW at 10 to 20 mph.", "Sunny. High around 65F. Winds NW at 5 to 10 mph.", "A few clouds from time to time. High 68F. Winds NNW at 5 to 10 mph.", "Partly cloudy. High 68F. Winds ESE at 5 to 10 mph.", "Partly cloudy skies. High 72F. Winds NW at 5 to 10 mph.", "A few showers early with mostly sunny conditions later in the day. High 68F. Winds light and variable. Chance of rain 30%."],
+			"cloudPct": [49, 12, 64, 12, 27, 11, 2, 9, 12, 5, 15, 24, 37, 32, 25],
+			"windDirCompass": ["NW", "ENE", "E", "NW", "WNW", "NW", "NNW", "SE", "WNW", "NW", "NW", "NNW", "ESE", "NW", "N"],
+			"windDirDegrees": [309, 72, 83, 312, 300, 311, 338, 142, 282, 313, 306, 327, 109, 324, 356],
+			"windSpeed": [11, 14, 6, 6, 6, 11, 6, 6, 12, 13, 9, 6, 6, 6, 5],
+			"humidityPct": [36, 47, 38, 46, 57, 55, 47, 43, 51, 37, 40, 41, 45, 52, 52],
+			"qualifier": ["Areas of smoke and haze are possible, reducing visibility at times.", null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+			"snowRange": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+			"thunderEnum": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+			"thunderEnumPhrase": ["No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder"]
+		},
+		"night": {
+			"dayPartName": ["Tonight", "Tomorrow night", "Sunday night", "Monday night", "Tuesday night", "Wednesday night", "Thursday night", "Friday night", "Saturday night", "Sunday night", "Monday night", "Tuesday night", "Wednesday night", "Thursday night", "Friday night"],
+			"precipPct": [0, 0, 20, 10, 20, 0, 0, 0, 10, 0, 0, 10, 10, 20, 20],
+			"precipAmt": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+			"precipType": ["rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "precip", "precip", "rain", "rain", "rain", "rain"],
+			"temperature": [48, 40, 44, 43, 47, 44, 43, 46, 40, 37, 40, 43, 45, 45, 46],
+			"uvIndex": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+			"uvDescription": ["Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low"],
+			"icon": [29, 33, 29, 33, 33, 31, 31, 31, 31, 31, 33, 29, 33, 33, 33],
+			"iconExtended": [2900, 3300, 2900, 3300, 3300, 3100, 3100, 3100, 3100, 3100, 3300, 2900, 3300, 3300, 3300],
+			"phrase": ["Partly Cloudy", "Mostly Clear", "Partly Cloudy", "Mostly Clear", "Mostly Clear", "Clear", "Clear", "Clear", "Clear", "Clear", "Mostly Clear", "Partly Cloudy", "Mostly Clear", "Mostly Clear", "Mostly Clear"],
+			"narrative": ["Partly cloudy. Areas of smoke and haze are possible, reducing visibility at times. Low 48F. Winds NNE at 10 to 15 mph.", "Mainly clear early, then a few clouds later on. Low near 40F. Winds light and variable.", "Partly to mostly cloudy. Low 44F. Winds light and variable.", "Mostly clear skies. Low 43F. Winds light and variable.", "Clear skies. Low 47F. Winds light and variable.", "Clear skies. Low 44F. Winds NNW at 5 to 10 mph.", "Clear skies. Low 43F. Winds light and variable.", "A mostly clear sky. Low 46F. Winds light and variable.", "Clear skies. Low near 40F. Winds NW at 5 to 10 mph.", "A mostly clear sky. Low 37F. Winds NW at 5 to 10 mph.", "Mostly clear. Low around 40F. Winds light and variable.", "A few clouds from time to time. Low 43F. Winds light and variable.", "Clear skies with a few passing clouds. Low around 45F. Winds light and variable.", "Mostly clear skies. Low around 45F. Winds light and variable.", "A mostly clear sky. Low 46F. Winds light and variable."],
+			"cloudPct": [41, 18, 59, 17, 16, 2, 3, 10, 8, 8, 20, 36, 26, 26, 20],
+			"windDirCompass": ["NNE", "ENE", "ESE", "WNW", "WNW", "NNW", "NNE", "SSW", "NW", "NW", "WNW", "NNE", "WSW", "N", "NNE"],
+			"windDirDegrees": [15, 77, 119, 290, 301, 328, 26, 206, 309, 322, 299, 26, 239, 8, 19],
+			"windSpeed": [10, 4, 3, 2, 4, 6, 4, 5, 9, 7, 5, 3, 3, 2, 3],
+			"humidityPct": [58, 56, 58, 82, 71, 70, 59, 59, 47, 59, 66, 55, 72, 75, 71],
+			"qualifier": ["Areas of smoke and haze are possible, reducing visibility at times.", null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+			"snowRange": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+			"thunderEnum": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+			"thunderEnumPhrase": ["No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder", "No thunder"]
+		}
+	}
+
+
+	,
+	"vt1alerts":
+
+	{
+		"issueTime": ["2016-11-10T12:21:00-05:00"],
+		"effectiveTime": [null],
+		"endTime": ["2016-11-11T19:00:00-05:00"],
+		"areaType": ["Z"],
+		"areaId": ["GAZ033"],
+		"areaName": ["North Fulton County"],
+		"headline": ["Special Weather Statement until 7PM EST FRI"],
+		"eventDescription": ["Special Weather Statement"],
+		"phenomenaCode": ["BZ"],
+		"pil": ["SPS"],
+		"severity": ["Minor"],
+		"severityCode": [1],
+		"significanceCode": ["W"],
+		"source": ["National Weather Service"],
+		"disclaimer": [null],
+		"officeName": ["Atlanta"],
+		"officeCode": ["KFFC"],
+		"etn": ["0000"],
+		"texts": [{
+			"languageCode": ["en-US"],
+			"description": ["...SMOKE CONTINUES TO PUSH SOUTHWARD ACROSS NORTH AND PORTIONS OF\nCENTRAL GEORGIA DUE TO ONGOING WILDFIRES IN FAR NORTH GEORGIA AND\nWESTERN NORTH CAROLINA...\n\nWITH A PREDOMINANT NORTHERLY WIND FLOW...AREAS OF SMOKE EMANATING\nFROM THE NORTH GEORGIA AND NORTH CAROLINA FIRES WILL CONTINUE TO\nDRIFT SOUTHWARD TO AFFECT PORTIONS OF NORTH GEORGIA INCLUDING MUCH\nOF THE ATLANTA METRO...AND EVEN PORTIONS OF CENTRAL GEORGIA.\nEXPECT SOME REDUCTIONS TO VISIBILITY AND CONTINUED SMOKY\nCONDITIONS THROUGH TONIGHT AND AGAIN FRIDAY. AS WINDS LESSEN\nTONIGHT...THE SMOKE MAY SUBSIDE ACROSS THE ATLANTA METRO BUT\nCONTINUE FOR PORTIONS OF FAR NORTH GEORGIA. FOR AREAS WHERE THE\nSMOKE CONTINUES OVERNIGHT...THE VISIBILITY WILL DROP FURTHER. AS\nWINDS INCREASE ONCE AGAIN ON FRIDAY...THE SMOKE AFFECTED AREAS\nWILL ONCE AGAIN INCREASE TO INCLUDE THE METRO.\n\n\n"],
+			"instruction": [null],
+			"overview": [null]
+		}]
+	}
+
+
+	,
+	"vt1daypart":
+
+	{
+		"day": {
+			"expireTimeGmt": [1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436],
+			"dayPartName": ["Today", "Tomorrow", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+			"precipPct": [0, 0, 0, 10, 20, 0, 0, 0, 10, 0, 0, 0, 0, 20, 30],
+			"precipAmt": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01],
+			"precipType": ["rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain"],
+			"temperature": [69, 63, 64, 69, 69, 67, 66, 69, 66, 63, 65, 68, 68, 72, 68],
+			"uvIndex": [4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3],
+			"uvDescription": ["Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate", "Moderate"],
+			"icon": [30, 32, 30, 32, 34, 32, 32, 32, 32, 32, 32, 34, 30, 30, 39],
+			"iconExtended": [3000, 3200, 3000, 3200, 3400, 3200, 3200, 3200, 3200, 3200, 3200, 3400, 3000, 3000, 6103],
+			"phrase": ["Partly Cloudy", "Sunny", "Partly Cloudy", "Sunny", "Mostly Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Mostly Sunny", "Partly Cloudy", "Partly Cloudy", "AM Showers"],
+			"narrative": ["A mix of clouds and sun. Areas of smoke and haze are possible, reducing visibility at times. High 69F. Winds NW at 10 to 15 mph.", "Mostly sunny. High 63F. Winds ENE at 10 to 20 mph.", "Partly to mostly cloudy. High 64F. Winds E at 5 to 10 mph.", "Mainly sunny. High 69F. Winds NW at 5 to 10 mph.", "Mostly sunny skies. High 69F. Winds WNW at 5 to 10 mph.", "A mainly sunny sky. High 67F. Winds NW at 10 to 15 mph.", "A mainly sunny sky. High 66F. Winds NNW at 5 to 10 mph.", "Sunny skies. High 69F. Winds SE at 5 to 10 mph.", "A mainly sunny sky. High 66F. Winds WNW at 10 to 15 mph.", "A mainly sunny sky. High 63F. Winds NW at 10 to 20 mph.", "Sunny. High around 65F. Winds NW at 5 to 10 mph.", "A few clouds from time to time. High 68F. Winds NNW at 5 to 10 mph.", "Partly cloudy. High 68F. Winds ESE at 5 to 10 mph.", "Partly cloudy skies. High 72F. Winds NW at 5 to 10 mph.", "A few showers early with mostly sunny conditions later in the day. High 68F. Winds light and variable. Chance of rain 30%."],
+			"cloudPct": [49, 12, 64, 12, 27, 11, 2, 9, 12, 5, 15, 24, 37, 32, 25],
+			"windDirCompass": ["NW", "ENE", "E", "NW", "WNW", "NW", "NNW", "SE", "WNW", "NW", "NW", "NNW", "ESE", "NW", "N"],
+			"windDirDegrees": [309, 72, 83, 312, 300, 311, 338, 142, 282, 313, 306, 327, 109, 324, 356],
+			"windSpeed": [11, 14, 6, 6, 6, 11, 6, 6, 12, 13, 9, 6, 6, 6, 5],
+			"humidityPct": [36, 47, 38, 46, 57, 55, 47, 43, 51, 37, 40, 41, 45, 52, 52],
+			"qualifier": ["Areas of smoke and haze are possible, reducing visibility at times.", null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+			"snowRange": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+		},
+		"night": {
+			"expireTimeGmt": [1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436, 1478866436],
+			"dayPartName": ["Tonight", "Tomorrow night", "Sunday night", "Monday night", "Tuesday night", "Wednesday night", "Thursday night", "Friday night", "Saturday night", "Sunday night", "Monday night", "Tuesday night", "Wednesday night", "Thursday night", "Friday night"],
+			"precipPct": [0, 0, 20, 10, 20, 0, 0, 0, 10, 0, 0, 10, 10, 20, 20],
+			"precipAmt": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+			"precipType": ["rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "precip", "precip", "rain", "rain", "rain", "rain"],
+			"temperature": [48, 40, 44, 43, 47, 44, 43, 46, 40, 37, 40, 43, 45, 45, 46],
+			"uvIndex": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+			"uvDescription": ["Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low", "Low"],
+			"icon": [29, 33, 29, 33, 33, 31, 31, 31, 31, 31, 33, 29, 33, 33, 33],
+			"iconExtended": [2900, 3300, 2900, 3300, 3300, 3100, 3100, 3100, 3100, 3100, 3300, 2900, 3300, 3300, 3300],
+			"phrase": ["Partly Cloudy", "Mostly Clear", "Partly Cloudy", "Mostly Clear", "Mostly Clear", "Clear", "Clear", "Clear", "Clear", "Clear", "Mostly Clear", "Partly Cloudy", "Mostly Clear", "Mostly Clear", "Mostly Clear"],
+			"narrative": ["Partly cloudy. Areas of smoke and haze are possible, reducing visibility at times. Low 48F. Winds NNE at 10 to 15 mph.", "Mainly clear early, then a few clouds later on. Low near 40F. Winds light and variable.", "Partly to mostly cloudy. Low 44F. Winds light and variable.", "Mostly clear skies. Low 43F. Winds light and variable.", "Clear skies. Low 47F. Winds light and variable.", "Clear skies. Low 44F. Winds NNW at 5 to 10 mph.", "Clear skies. Low 43F. Winds light and variable.", "A mostly clear sky. Low 46F. Winds light and variable.", "Clear skies. Low near 40F. Winds NW at 5 to 10 mph.", "A mostly clear sky. Low 37F. Winds NW at 5 to 10 mph.", "Mostly clear. Low around 40F. Winds light and variable.", "A few clouds from time to time. Low 43F. Winds light and variable.", "Clear skies with a few passing clouds. Low around 45F. Winds light and variable.", "Mostly clear skies. Low around 45F. Winds light and variable.", "A mostly clear sky. Low 46F. Winds light and variable."],
+			"cloudPct": [41, 18, 59, 17, 16, 2, 3, 10, 8, 8, 20, 36, 26, 26, 20],
+			"windDirCompass": ["NNE", "ENE", "ESE", "WNW", "WNW", "NNW", "NNE", "SSW", "NW", "NW", "WNW", "NNE", "WSW", "N", "NNE"],
+			"windDirDegrees": [15, 77, 119, 290, 301, 328, 26, 206, 309, 322, 299, 26, 239, 8, 19],
+			"windSpeed": [10, 4, 3, 2, 4, 6, 4, 5, 9, 7, 5, 3, 3, 2, 3],
+			"humidityPct": [58, 56, 58, 82, 71, 70, 59, 59, 47, 59, 66, 55, 72, 75, 71],
+			"qualifier": ["Areas of smoke and haze are possible, reducing visibility at times.", null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+			"snowRange": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+		}
+	}
+
+
+	,
+	"vt1flu":
+
+	{
+		"activityLevel": "Sporadic",
+		"mapColor": "Yellow",
+		"weekEndingDate": "2016-11-05T00:00:00.000Z"
+	}
+
+
+	,
+	"vt1pastflu":
+
+
+
+	{
+		"reportDate": ["2016-10-29T12:00:00.000-05:00", "2016-10-22T12:00:00.000-05:00", "2016-10-15T12:00:00.000-05:00", "2016-10-08T12:00:00.000-05:00", "2016-05-21T12:00:00.000-05:00", "2016-05-14T12:00:00.000-05:00", "2016-05-07T12:00:00.000-05:00", "2016-04-30T12:00:00.000-05:00", "2016-04-23T12:00:00.000-05:00", "2016-04-16T12:00:00.000-05:00", "2016-04-09T12:00:00.000-05:00", "2016-04-02T12:00:00.000-05:00"],
+		"stateCode": ["GA", "GA", "GA", "GA", "GA", "GA", "GA", "GA", "GA", "GA", "GA", "GA"],
+		"outbreakCode": ["yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "orange", "red"]
+	}
+
+
+
+	,
+	"vt1sickWeatherColdFluSickScore":
+
+
+
+	{
+		"sickscore": 45,
+		"server_debug": "172.31.16.153"
+	}
+
+
+
+	,
+	"vt1sickWeatherMarkerCount":
+
+
+
+	{
+		"1": 89,
+		"4": 170
+	}
+
+
+
+	,
+	"vt1hourlyforecast":
+
+	{
+		"processTime": ["2016-11-11T07:00:00-0500", "2016-11-11T08:00:00-0500", "2016-11-11T09:00:00-0500", "2016-11-11T10:00:00-0500", "2016-11-11T11:00:00-0500", "2016-11-11T12:00:00-0500", "2016-11-11T13:00:00-0500", "2016-11-11T14:00:00-0500", "2016-11-11T15:00:00-0500", "2016-11-11T16:00:00-0500", "2016-11-11T17:00:00-0500", "2016-11-11T18:00:00-0500", "2016-11-11T19:00:00-0500", "2016-11-11T20:00:00-0500", "2016-11-11T21:00:00-0500", "2016-11-11T22:00:00-0500", "2016-11-11T23:00:00-0500", "2016-11-12T00:00:00-0500", "2016-11-12T01:00:00-0500", "2016-11-12T02:00:00-0500", "2016-11-12T03:00:00-0500", "2016-11-12T04:00:00-0500", "2016-11-12T05:00:00-0500", "2016-11-12T06:00:00-0500", "2016-11-12T07:00:00-0500", "2016-11-12T08:00:00-0500", "2016-11-12T09:00:00-0500", "2016-11-12T10:00:00-0500", "2016-11-12T11:00:00-0500", "2016-11-12T12:00:00-0500", "2016-11-12T13:00:00-0500", "2016-11-12T14:00:00-0500", "2016-11-12T15:00:00-0500", "2016-11-12T16:00:00-0500", "2016-11-12T17:00:00-0500", "2016-11-12T18:00:00-0500", "2016-11-12T19:00:00-0500", "2016-11-12T20:00:00-0500", "2016-11-12T21:00:00-0500", "2016-11-12T22:00:00-0500", "2016-11-12T23:00:00-0500", "2016-11-13T00:00:00-0500", "2016-11-13T01:00:00-0500", "2016-11-13T02:00:00-0500", "2016-11-13T03:00:00-0500", "2016-11-13T04:00:00-0500", "2016-11-13T05:00:00-0500", "2016-11-13T06:00:00-0500"],
+		"temperature": [45, 47, 52, 58, 60, 64, 66, 67, 68, 67, 65, 62, 60, 58, 57, 56, 54, 53, 52, 51, 50, 50, 49, 49, 48, 48, 50, 53, 56, 58, 60, 61, 62, 61, 60, 56, 53, 51, 49, 48, 47, 46, 45, 44, 43, 42, 41, 42],
+		"precipPct": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"precipType": ["rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain", "rain"],
+		"uvIndex": [0, 0, 1, 2, 3, 4, 4, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 4, 4, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"icon": [29, 30, 30, 30, 30, 30, 30, 30, 28, 28, 28, 27, 27, 27, 27, 27, 29, 29, 33, 31, 31, 31, 31, 29, 29, 34, 34, 34, 34, 32, 32, 32, 32, 32, 32, 31, 31, 31, 31, 31, 31, 31, 31, 33, 29, 29, 29, 29],
+		"iconExtended": [2900, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2800, 2800, 2800, 2700, 2700, 2700, 2700, 2700, 2900, 2900, 3300, 3100, 3100, 3100, 3100, 2900, 2900, 3400, 3400, 3400, 3400, 3200, 3200, 3200, 3200, 3200, 3200, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3300, 2900, 2900, 2900, 2900],
+		"windDirCompass": ["NW", "NW", "NW", "NW", "NW", "NW", "NW", "NW", "WNW", "WNW", "NW", "NW", "NW", "NW", "NW", "NNW", "NNW", "N", "NNE", "NE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "ENE", "E", "E", "E", "E", "E", "ENE", "ENE", "ENE", "ENE"],
+		"windDirDegrees": [307, 309, 310, 310, 310, 311, 308, 305, 303, 304, 308, 314, 321, 324, 325, 329, 343, 1, 26, 39, 62, 72, 75, 71, 75, 72, 73, 74, 75, 73, 77, 76, 75, 73, 68, 66, 65, 70, 78, 83, 84, 85, 88, 82, 77, 74, 75, 65],
+		"windSpeed": [6, 7, 9, 10, 11, 11, 12, 11, 11, 11, 10, 8, 7, 7, 7, 7, 6, 5, 5, 6, 7, 9, 10, 11, 11, 13, 14, 15, 14, 12, 11, 10, 10, 9, 8, 6, 5, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5, 4],
+		"phrase": ["Partly Cloudy", "Partly Cloudy", "Partly Cloudy", "Partly Cloudy", "Partly Cloudy", "Partly Cloudy", "Partly Cloudy", "Partly Cloudy", "Mostly Cloudy", "Mostly Cloudy", "Mostly Cloudy", "Mostly Cloudy", "Mostly Cloudy", "Mostly Cloudy", "Mostly Cloudy", "Mostly Cloudy", "Partly Cloudy", "Partly Cloudy", "Mostly Clear", "Clear", "Clear", "Clear", "Clear", "Partly Cloudy", "Partly Cloudy", "Mostly Sunny", "Mostly Sunny", "Mostly Sunny", "Mostly Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Sunny", "Clear", "Clear", "Clear", "Clear", "Clear", "Clear", "Clear", "Clear", "Mostly Clear", "Partly Cloudy", "Partly Cloudy", "Partly Cloudy", "Partly Cloudy"],
+		"dayInd": ["N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N"],
+		"severity": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+		"rh": [56, 55, 45, 38, 35, 31, 29, 27, 27, 28, 31, 37, 42, 47, 50, 53, 57, 60, 62, 63, 65, 65, 66, 66, 67, 65, 58, 51, 45, 41, 40, 38, 37, 36, 38, 43, 48, 52, 55, 55, 55, 57, 57, 58, 57, 58, 58, 58],
+		"feelsLike": [42, 43, 49, 55, 59, 63, 66, 67, 68, 67, 65, 62, 59, 57, 55, 54, 53, 51, 50, 49, 48, 46, 45, 44, 43, 43, 45, 49, 53, 56, 58, 60, 61, 60, 58, 55, 52, 50, 48, 47, 45, 44, 42, 41, 40, 39, 38, 40]
+	}
+
+
+	,
+	"vt1observation":
+
+	{
+		"altimeter": 30.10,
+		"barometerTrend": "Steady",
+		"barometerCode": 0,
+		"barometerChange": 0.00,
+		"dewPoint": 30,
+		"feelsLike": 42,
+		"gust": null,
+		"humidity": 57,
+		"icon": 29,
+		"observationTime": "2016-11-11T07:04:30-0500",
+		"obsQualifierCode": null,
+		"obsQualifierSeverity": null,
+		"phrase": "Partly Cloudy",
+		"precip24Hour": 0.00,
+		"snowDepth": 0.0,
+		"temperature": 45,
+		"temperatureMaxSince7am": 45,
+		"uvIndex": 0,
+		"uvDescription": "Low",
+		"visibility": 9.000,
+		"windSpeed": 5,
+		"windDirCompass": "NW",
+		"windDirDegrees": 310
+	}
+
+
+	,
+	"vt1lightning":
+
+
+	null
+
+
+	,
+	"vt1wwir":
+
+	{
+		"processTime": "2016-11-11T07:00:00-0500",
+		"overallType": 0,
+		"phrase": "Expect dry conditions over the next six hours.",
+		"tersePhrase": "Dry conditions will continue.",
+		"phraseTemplate": "Expect dry conditions over the next six hours.",
+		"tersePhraseTemplate": "Dry conditions will continue.",
+		"precipDay": null,
+		"precipTime24hr": null,
+		"precipTime12hr": null,
+		"precipTimeIso": null,
+		"timeZoneAbbreviation": "EST"
+	}
+
+
+	,
+	"vt1runweatherhourly":
+
+	{
+		"fcstValid": [1478865600, 1478869200, 1478872800, 1478876400, 1478880000, 1478883600, 1478887200, 1478890800, 1478894400, 1478898000, 1478901600, 1478905200, 1478908800, 1478912400, 1478916000, 1478919600, 1478923200, 1478926800, 1478930400, 1478934000, 1478937600, 1478941200, 1478944800, 1478948400, 1478952000, 1478955600, 1478959200, 1478962800, 1478966400, 1478970000, 1478973600, 1478977200, 1478980800, 1478984400, 1478988000, 1478991600, 1478995200, 1478998800, 1479002400, 1479006000, 1479009600, 1479013200, 1479016800, 1479020400, 1479024000, 1479027600, 1479031200, 1479034800, 1479038400, 1479042000, 1479045600, 1479049200, 1479052800, 1479056400, 1479060000, 1479063600, 1479067200, 1479070800, 1479074400, 1479078000, 1479081600, 1479085200, 1479088800, 1479092400, 1479096000, 1479099600, 1479103200, 1479106800, 1479110400, 1479114000, 1479117600, 1479121200, 1479124800, 1479128400, 1479132000, 1479135600, 1479139200, 1479142800, 1479146400, 1479150000, 1479153600, 1479157200, 1479160800, 1479164400, 1479168000, 1479171600, 1479175200, 1479178800, 1479182400, 1479186000, 1479189600, 1479193200, 1479196800, 1479200400, 1479204000, 1479207600, 1479211200, 1479214800, 1479218400, 1479222000, 1479225600, 1479229200, 1479232800, 1479236400, 1479240000, 1479243600, 1479247200, 1479250800, 1479254400, 1479258000, 1479261600, 1479265200, 1479268800, 1479272400, 1479276000, 1479279600, 1479283200, 1479286800, 1479290400, 1479294000, 1479297600, 1479301200, 1479304800, 1479308400, 1479312000, 1479315600, 1479319200, 1479322800, 1479326400, 1479330000, 1479333600, 1479337200, 1479340800, 1479344400, 1479348000, 1479351600, 1479355200, 1479358800, 1479362400, 1479366000, 1479369600, 1479373200, 1479376800, 1479380400, 1479384000, 1479387600, 1479391200, 1479394800, 1479398400, 1479402000, 1479405600, 1479409200, 1479412800, 1479416400, 1479420000, 1479423600, 1479427200, 1479430800, 1479434400, 1479438000, 1479441600, 1479445200, 1479448800, 1479452400, 1479456000, 1479459600, 1479463200, 1479466800],
+		"fcstValidLocal": ["2016-11-11T07:00:00-0500", "2016-11-11T08:00:00-0500", "2016-11-11T09:00:00-0500", "2016-11-11T10:00:00-0500", "2016-11-11T11:00:00-0500", "2016-11-11T12:00:00-0500", "2016-11-11T13:00:00-0500", "2016-11-11T14:00:00-0500", "2016-11-11T15:00:00-0500", "2016-11-11T16:00:00-0500", "2016-11-11T17:00:00-0500", "2016-11-11T18:00:00-0500", "2016-11-11T19:00:00-0500", "2016-11-11T20:00:00-0500", "2016-11-11T21:00:00-0500", "2016-11-11T22:00:00-0500", "2016-11-11T23:00:00-0500", "2016-11-12T00:00:00-0500", "2016-11-12T01:00:00-0500", "2016-11-12T02:00:00-0500", "2016-11-12T03:00:00-0500", "2016-11-12T04:00:00-0500", "2016-11-12T05:00:00-0500", "2016-11-12T06:00:00-0500", "2016-11-12T07:00:00-0500", "2016-11-12T08:00:00-0500", "2016-11-12T09:00:00-0500", "2016-11-12T10:00:00-0500", "2016-11-12T11:00:00-0500", "2016-11-12T12:00:00-0500", "2016-11-12T13:00:00-0500", "2016-11-12T14:00:00-0500", "2016-11-12T15:00:00-0500", "2016-11-12T16:00:00-0500", "2016-11-12T17:00:00-0500", "2016-11-12T18:00:00-0500", "2016-11-12T19:00:00-0500", "2016-11-12T20:00:00-0500", "2016-11-12T21:00:00-0500", "2016-11-12T22:00:00-0500", "2016-11-12T23:00:00-0500", "2016-11-13T00:00:00-0500", "2016-11-13T01:00:00-0500", "2016-11-13T02:00:00-0500", "2016-11-13T03:00:00-0500", "2016-11-13T04:00:00-0500", "2016-11-13T05:00:00-0500", "2016-11-13T06:00:00-0500", "2016-11-13T07:00:00-0500", "2016-11-13T08:00:00-0500", "2016-11-13T09:00:00-0500", "2016-11-13T10:00:00-0500", "2016-11-13T11:00:00-0500", "2016-11-13T12:00:00-0500", "2016-11-13T13:00:00-0500", "2016-11-13T14:00:00-0500", "2016-11-13T15:00:00-0500", "2016-11-13T16:00:00-0500", "2016-11-13T17:00:00-0500", "2016-11-13T18:00:00-0500", "2016-11-13T19:00:00-0500", "2016-11-13T20:00:00-0500", "2016-11-13T21:00:00-0500", "2016-11-13T22:00:00-0500", "2016-11-13T23:00:00-0500", "2016-11-14T00:00:00-0500", "2016-11-14T01:00:00-0500", "2016-11-14T02:00:00-0500", "2016-11-14T03:00:00-0500", "2016-11-14T04:00:00-0500", "2016-11-14T05:00:00-0500", "2016-11-14T06:00:00-0500", "2016-11-14T07:00:00-0500", "2016-11-14T08:00:00-0500", "2016-11-14T09:00:00-0500", "2016-11-14T10:00:00-0500", "2016-11-14T11:00:00-0500", "2016-11-14T12:00:00-0500", "2016-11-14T13:00:00-0500", "2016-11-14T14:00:00-0500", "2016-11-14T15:00:00-0500", "2016-11-14T16:00:00-0500", "2016-11-14T17:00:00-0500", "2016-11-14T18:00:00-0500", "2016-11-14T19:00:00-0500", "2016-11-14T20:00:00-0500", "2016-11-14T21:00:00-0500", "2016-11-14T22:00:00-0500", "2016-11-14T23:00:00-0500", "2016-11-15T00:00:00-0500", "2016-11-15T01:00:00-0500", "2016-11-15T02:00:00-0500", "2016-11-15T03:00:00-0500", "2016-11-15T04:00:00-0500", "2016-11-15T05:00:00-0500", "2016-11-15T06:00:00-0500", "2016-11-15T07:00:00-0500", "2016-11-15T08:00:00-0500", "2016-11-15T09:00:00-0500", "2016-11-15T10:00:00-0500", "2016-11-15T11:00:00-0500", "2016-11-15T12:00:00-0500", "2016-11-15T13:00:00-0500", "2016-11-15T14:00:00-0500", "2016-11-15T15:00:00-0500", "2016-11-15T16:00:00-0500", "2016-11-15T17:00:00-0500", "2016-11-15T18:00:00-0500", "2016-11-15T19:00:00-0500", "2016-11-15T20:00:00-0500", "2016-11-15T21:00:00-0500", "2016-11-15T22:00:00-0500", "2016-11-15T23:00:00-0500", "2016-11-16T00:00:00-0500", "2016-11-16T01:00:00-0500", "2016-11-16T02:00:00-0500", "2016-11-16T03:00:00-0500", "2016-11-16T04:00:00-0500", "2016-11-16T05:00:00-0500", "2016-11-16T06:00:00-0500", "2016-11-16T07:00:00-0500", "2016-11-16T08:00:00-0500", "2016-11-16T09:00:00-0500", "2016-11-16T10:00:00-0500", "2016-11-16T11:00:00-0500", "2016-11-16T12:00:00-0500", "2016-11-16T13:00:00-0500", "2016-11-16T14:00:00-0500", "2016-11-16T15:00:00-0500", "2016-11-16T16:00:00-0500", "2016-11-16T17:00:00-0500", "2016-11-16T18:00:00-0500", "2016-11-16T19:00:00-0500", "2016-11-16T20:00:00-0500", "2016-11-16T21:00:00-0500", "2016-11-16T22:00:00-0500", "2016-11-16T23:00:00-0500", "2016-11-17T00:00:00-0500", "2016-11-17T01:00:00-0500", "2016-11-17T02:00:00-0500", "2016-11-17T03:00:00-0500", "2016-11-17T04:00:00-0500", "2016-11-17T05:00:00-0500", "2016-11-17T06:00:00-0500", "2016-11-17T07:00:00-0500", "2016-11-17T08:00:00-0500", "2016-11-17T09:00:00-0500", "2016-11-17T10:00:00-0500", "2016-11-17T11:00:00-0500", "2016-11-17T12:00:00-0500", "2016-11-17T13:00:00-0500", "2016-11-17T14:00:00-0500", "2016-11-17T15:00:00-0500", "2016-11-17T16:00:00-0500", "2016-11-17T17:00:00-0500", "2016-11-17T18:00:00-0500", "2016-11-17T19:00:00-0500", "2016-11-17T20:00:00-0500", "2016-11-17T21:00:00-0500", "2016-11-17T22:00:00-0500", "2016-11-17T23:00:00-0500", "2016-11-18T00:00:00-0500", "2016-11-18T01:00:00-0500", "2016-11-18T02:00:00-0500", "2016-11-18T03:00:00-0500", "2016-11-18T04:00:00-0500", "2016-11-18T05:00:00-0500", "2016-11-18T06:00:00-0500"],
+		"dow": ["Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Saturday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Sunday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Monday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Tuesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Wednesday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Thursday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday", "Friday"],
+		"dayInd": ["N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N"],
+		"longRunWeatherIndex": [8, 8, 8, 9, 9, 9, 9, 9, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 9, 9, 9, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 9, 9, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 9, 9, 10, 10, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 9, 9, 9, 9, 9, 9, 9, 9, 10, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 9, 9, 9, 9, 9, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 9, 9, 9, 9, 9, 8, 8, 8],
+		"shortRunWeatherIndex": [6, 6, 7, 8, 9, 9, 9, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 7, 7, 7, 7, 7, 7, 7, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 7, 7, 7, 6, 6, 6, 6, 5, 5, 5, 5, 5, 6, 6, 7, 8, 8, 8, 9, 9, 9, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 7, 8, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 9, 9, 8, 8, 8, 8, 8, 7, 7, 7, 7, 8, 8, 9, 10, 10, 10, 10, 10, 9, 9, 9, 9, 9, 10, 10, 9, 9, 9, 9, 8, 8, 8, 8, 7, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 9, 9, 9, 8, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 9, 9, 9, 9, 9, 9, 9, 10, 10, 9, 9, 9, 8, 7, 7, 7, 7, 7, 6, 6],
+		"temperature": [45, 47, 52, 58, 60, 64, 66, 67, 68, 67, 65, 62, 60, 58, 57, 56, 54, 53, 52, 51, 50, 50, 49, 49, 48, 48, 50, 53, 56, 58, 60, 61, 62, 61, 60, 56, 53, 51, 49, 48, 47, 46, 45, 44, 43, 42, 41, 42, 41, 42, 46, 51, 54, 58, 60, 62, 63, 63, 61, 58, 55, 53, 51, 51, 49, 48, 48, 48, 47, 47, 46, 46, 45, 48, 53, 56, 60, 62, 64, 67, 68, 68, 66, 61, 56, 54, 52, 51, 50, 49, 49, 48, 48, 46, 44, 44, 44, 48, 52, 59, 63, 65, 66, 67, 68, 68, 66, 62, 59, 56, 55, 54, 53, 52, 51, 50, 50, 49, 48, 48, 47, 49, 53, 57, 60, 63, 64, 65, 65, 65, 64, 61, 57, 55, 54, 53, 51, 50, 49, 48, 47, 46, 45, 45, 44, 47, 50, 55, 58, 61, 63, 64, 65, 64, 62, 59, 55, 53, 51, 50, 50, 48, 48, 47, 46, 45, 44, 44],
+		"precipPct": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 3, 2, 0, 0, 0, 1, 0, 0, 1, 2, 3, 3, 13, 13, 15, 13, 17, 18, 7, 5, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 5, 4, 2, 0, 0, 0, 0, 1, 0, 1, 16, 19, 22, 16, 16, 16, 6, 6, 7, 3, 3, 3, 3, 4, 4, 4, 3, 2, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2, 3, 3, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+		"dewPoint": [30, 31, 31, 32, 33, 33, 33, 33, 32, 33, 34, 35, 37, 38, 38, 39, 39, 39, 39, 39, 39, 38, 38, 38, 37, 37, 36, 36, 35, 35, 36, 36, 35, 34, 34, 34, 34, 34, 34, 33, 32, 31, 30, 30, 29, 28, 28, 28, 27, 27, 26, 26, 28, 29, 30, 31, 32, 32, 32, 33, 34, 35, 35, 35, 36, 35, 35, 36, 35, 35, 34, 34, 34, 37, 37, 38, 38, 38, 38, 40, 40, 39, 40, 42, 43, 42, 43, 44, 44, 44, 44, 44, 44, 44, 43, 43, 42, 44, 44, 45, 45, 45, 45, 44, 44, 43, 43, 44, 44, 44, 44, 44, 43, 43, 42, 42, 42, 42, 42, 43, 42, 43, 44, 45, 45, 44, 43, 41, 40, 39, 39, 39, 39, 40, 40, 40, 40, 40, 41, 41, 41, 40, 40, 40, 39, 40, 40, 39, 36, 33, 33, 33, 33, 34, 34, 35, 35, 35, 35, 35, 35, 35, 34, 34, 34, 34, 34, 34],
+		"cloudPct": [35, 49, 55, 59, 32, 31, 31, 50, 62, 63, 74, 72, 76, 75, 78, 62, 56, 38, 24, 15, 11, 7, 12, 33, 34, 27, 27, 25, 21, 14, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 5, 11, 16, 24, 30, 36, 44, 53, 60, 64, 66, 66, 68, 70, 72, 69, 59, 56, 57, 60, 62, 62, 60, 59, 60, 60, 60, 60, 59, 58, 57, 55, 52, 29, 17, 10, 9, 8, 8, 3, 2, 1, 2, 3, 5, 9, 15, 21, 24, 26, 26, 22, 15, 11, 11, 15, 20, 24, 28, 30, 29, 28, 27, 27, 27, 27, 27, 27, 26, 22, 15, 12, 14, 16, 18, 18, 16, 15, 13, 10, 8, 8, 9, 10, 14, 20, 24, 19, 10, 5, 5, 5, 5, 4, 4, 3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 2, 3, 3, 4, 4, 5],
+		"windSpeed": [6, 7, 9, 10, 11, 11, 12, 11, 11, 11, 10, 8, 7, 7, 7, 7, 6, 5, 5, 6, 7, 9, 10, 11, 11, 13, 14, 15, 14, 12, 11, 10, 10, 9, 8, 6, 5, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5, 4, 4, 4, 6, 7, 6, 6, 6, 5, 5, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 1, 2, 2, 1, 2, 3, 4, 5, 5, 6, 6, 6, 6, 6, 5, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 3, 3, 3, 4, 4, 4, 5, 6, 6, 6, 6, 6, 5, 3, 3, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 7, 9, 10, 11, 12, 11, 11, 11, 10, 9, 7, 7, 6, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 6, 6, 6, 6, 6, 6, 5, 4, 4, 3, 3, 2, 2, 1, 1, 2, 3, 3, 4]
+	}
+
+
+	,
+	"v2idxDriveCurrent":
+
+	{
+		"metadata": {
+			"language": "en-US",
+			"transactionId": "1478865912817:60620845",
+			"version": "1",
+			"latitude": 33.75,
+			"longitude": -84.39,
+			"expireTimeGmt": 1478866470,
+			"statusCode": 200
+		},
+		"drivingDifficultyIndexCurrent": {
+			"obsTime": 1478865870,
+			"obsTimeLocal": "2016-11-11T07:04:30-0500",
+			"dow": "Friday",
+			"dayInd": "N",
+			"drivingDifficultyIndex": 0,
+			"drivingDifficultyCategory": "None"
+		}
+	}
+
+
+	,
+	"vt1precipitation":
+
+	{
+		"characteristic": [0],
+		"startTime": ["2016-11-11T07:15:00-0500"],
+		"endTime": ["2016-11-11T14:15:00-0500"],
+		"eventType": [0],
+		"forecastedRainAmount": [0.0],
+		"forecastedSnowAmount": [0.0],
+		"intensity": [0],
+		"severity": [1],
+		"imminence": [0]
+	}
+
+
+}

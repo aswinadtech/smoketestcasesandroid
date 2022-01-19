@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="twc.Automation.SmokeTestCases.smokeTestCases">
+        <methods>
+          <include name="Smoke_Test_amazon_aax_mapsdetails_adcall"/>
+          <include name="Smoke_Test_amazon_aax_today_deatailcard"/>
+          <include name="beforeClass"/>
+          <include name="Smoke_Test_amazon_aaxSlot_feed3_adcall"/>
+          <include name="Smoke_Test_amazon_aaxSlot_feed2_adcall"/>
+          <include name="Smoke_Test_amazon_aaxSlot_feed4_adcall"/>
+          <include name="Smoke_Test_Verify_amazon_SlotId_outdoor_details"/>
+          <include name="Smoke_Test_amazon_aaxSlot_feed1_adCall"/>
+          <include name="Smoke_Test_amazon_aax_Airquality_deatailcard"/>
+        </methods>
+      </class> <!-- twc.Automation.SmokeTestCases.smokeTestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
