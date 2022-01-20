@@ -168,6 +168,7 @@ public class Utils extends Functions {
 
 	}
 	public static void verifyPubadCal(String excelName, String sheetName) throws Exception {
+
 		String[][] data = read_excel_data.exceldataread(sheetName);
 		DeviceStatus device_status = new DeviceStatus();
 		int Cap = device_status.Device_Status();
@@ -3813,9 +3814,7 @@ public class Utils extends Functions {
 		// "iu=%2F7646%2Fapp_iphone_us%2Fdb_display%2Fhome_screen%2Ftoday";
 		if (sheetName.equalsIgnoreCase("PreRollVideo")) {
 			iuId = videoIUValue;
-		} else if(sheetName.equalsIgnoreCase("DailyDetails")) {
-			iuId = data[11][1]+currentday1;
-		}else {
+		} else {
 			iuId = data[11][1];
 			System.out.println(data[11][1]);
 			//iuId = "iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly";
@@ -4232,8 +4231,6 @@ public class Utils extends Functions {
 		// "iu=%2F7646%2Fapp_iphone_us%2Fdb_display%2Fhome_screen%2Ftoday";
 		if (sheetName.equalsIgnoreCase("PreRollVideo")) {
 			iuId = videoIUValue;
-		}else if(sheetName.equalsIgnoreCase("DailyDetails")) {
-			iuId = data[11][1]+currentday1;
 		}
 		else {
 			iuId = data[11][1];
