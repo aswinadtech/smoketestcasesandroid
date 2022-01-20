@@ -467,6 +467,19 @@ public class AppiumFunctions extends Drivers{
      		}
      	
      	
+     	public static void handleunwantedpopups() throws Exception
+     	{
+     		attachScreen();
+ 			clickONNext();
+ 			attachScreen();
+ 		    ClickonIUnderstand();
+ 		   attachScreen();
+     		clickOnAllow();		
+     		attachScreen();
+     		Clickonclosebutton();
+     		attachScreen();
+ 			Thread.sleep(30000);
+     	}
      	
      	
      	
@@ -1273,6 +1286,20 @@ public static void clickOnVideoElementt() throws Exception{
 		catch(Exception e1) {
 
 		}
+		
+	}
+}
+
+public static void clickOnVideoElementdynamic() throws Exception{
+	System.out.println("clicking video element");
+	logStep("clicking video element");
+	try {
+		
+		List<WebElement> allnav_tabs=Ad.findElementsById("com.weather.Weather:id/smallLabel");
+		allnav_tabs.get(3).click();
+	Thread.sleep(10000);
+	}
+	catch(Exception e) {
 		
 	}
 }
