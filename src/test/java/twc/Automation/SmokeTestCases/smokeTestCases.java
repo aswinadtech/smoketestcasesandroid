@@ -27,6 +27,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import com.gargoylesoftware.htmlunit.javascript.host.Screen;
 
 import twc.Automation.Driver.Drivers;
 import twc.Automation.General.DeviceStatus;
@@ -1268,6 +1269,170 @@ public void Smoke_Test_sz_Verifying_newdailydetails_day15adcall_FTL() throws Exc
 	System.out.println(
 			"=================  Verifying sz value for new daily details day15 ad call tescase  End =========================");
 }
+
+
+
+/* =======================================api  calls test cases started======================================================================================*/
+// Verifying Api and feed card and amazon aax prerol calls verification
+@Test(priority = 350, enabled = true)
+@Description("Verifying wfxtg trigger api call url on KillLaunch")
+public void Smoke_Test_CaseVerify_WeatherFXAPI_url_KillLaunch() throws Exception {
+	System.out.println("================= Verifying WeatherFX API url started =========================");
+	CharlesFunctions.archive_folder("Charles");
+	proxy.clearCharlesSession();
+	AppFunctions.Kill_Launch_App();
+	attachScreen();
+   AppiumFunctions.ClickonIUnderstand();
+	Thread.sleep(25000);
+	attachScreen();
+	this.proxy.getXml();
+	CharlesFunctions.createXMLFileForCharlesSessionFile();
+	Utils.verifyAPICal("Smoke", "WFXTrigger");;
+	System.out.println("================= Verifying WeatherFX API url End =========================");
+}
+
+      @Test(priority =352,enabled = true)  
+ @Description("Verifying Factual location.wfxtriggers.com api call supressing")  
+public void Verifying_Factual_locationwfxtriggerscom_apiCall_supressing() throws Exception {	  
+ System.out. println("=================Verifying Factual location.wfxtriggers.com api call supressing =========================" ); 
+ Utils.verifyAPICal("Smoke", "LocationWFX", false);
+  System.out. println("================= Verifying Factual location.wfxtriggers.com api call supressing  =========================" );
+  }
+
+@Test(priority = 354, enabled = true)
+@Description("Verifying turbo call api url on KillLaunch")
+public void Smoke_Test_CaseVerify_turbo_url_KillLaunch() throws Exception {
+	System.out.println("================= Verifying Turbo call  API url started =========================");
+	Utils.verifyAPICal("Smoke", "TurboApi");
+	System.out.println("================= Verifying Turbo call API url End =========================");
+}
+
+  @Test(priority = 356, enabled = true)	  
+  @Description("Verifying bcp.crwdcntrl call on killLaunch" )
+  public void Smoke_Test__Verifying_Bcp_apicall_URL_killLaunch() throws  Exception { 
+  logStep("Verifying bcp.crwdcntrl call" ); 
+  System.out.println("=================Verifying  bcp.crwdcntrl call testcase started =========================");	  
+  Utils.verifyAPICal("Smoke", "Lotame");
+  System.out.println("================= Verifying  bcp.crwdcntrl call testcase End =========================" );
+  
+  }
+	/* =======================================api calls test cases End======================================================================================*/
+
+  
+  
+	/* =======================================amazon preroll   ad calls test cases started======================================================================================*/
+  
+@Test(priority = 358, enabled = true)
+@Description("Verifying amazon Slot Id for hourly details preroll ad call on killLaunch")
+public void Smoke_Test_amazon_aax_Hourly_preroll_adcall_killLaunch() throws Exception {
+	System.out.println(
+			"================= Verify amazon aax Hourly details preroll adcall Started =========================");
+
+	logStep(" Verifying preload amazon aax for  hourly details");
+	Utils.verifyAAX_SlotId("Smoke", "Hourly");
+	System.out.println(
+			"================= Verify amazon aax Hourly details preroll adcall End =========================");
+
+}
+
+  @Test(priority =360, enabled = true)
+	@Description("Verifying amazon Slot Id for hourly1 big ad details preroll call on killLaunch")
+	public void Smoke_Test_amazon_aax_Hourly1_bigaddetails_preroll_adcall_killLaunch() throws Exception {
+		System.out.println(
+				"================= Verify amazon aax Hourly1 details big  adcall  test case Started =========================");
+		Utils.verifyAAX_SlotId("Smoke", "Hourly1");
+		System.out.println("================= Verify amazon aax Hourly1 big ad details  test case  End =========================");
+
+	}
+	
+
+
+	@Test(priority = 362, enabled = true)
+	@Description("Verifying amazon Slot Id for hourly2 big ad details preroll call on killLaunch")
+	public void Smoke_Test_amazon_aax_Hourly2_bigaddetails_preroll_adcall_killLaunch() throws Exception {
+		System.out.println(
+				"================= Verifying  amazon aax Hourly2 details big  adcall  test case Started =========================");
+		Utils.verifyAAX_SlotId("Smoke", "Hourly2");
+		System.out.println("================= Verifying  amazon aax Hourly2  big ad details  test case  End =========================");
+
+	}
+
+
+
+	@Test(priority = 364, enabled = true)
+	@Description("Verifying amazon Slot Id for hourly3 big ad details preroll call on killLaunch")
+	public void Smoke_Test_amazon_aax_Hourly3_bigaddetails_preroll_adcall_killLaunch() throws Exception {
+		System.out.println(
+				"================= Verify amazon aax Hourly3 details big  ad call test case  Started =========================");
+		Utils.verifyAAX_SlotId("Smoke", "Hourly3");
+		System.out.println("================= Verify amazon aax Hourly3 big ad call test case End =========================");
+	}
+	  
+
+
+@Test(priority = 366, enabled = true)
+@Description("Verifying amazon Slot Id for maps details preroll ad call on killLaunch")
+public void Smoke_Test_amazon_aax_mapsdetails_preload_adcall() throws Exception {
+	System.out.println(
+			"================= Verify amazon aax Maps card preroll adcall Started =========================");
+
+	logStep(" Verifying preload amazon aax for  map details");
+	Utils.verifyAAX_SlotId("Smoke", "Map");
+	System.out
+			.println("================= Verify amazon aax Maps card preroll adcall End =========================");
+
+}
+ 
+	@Test(priority = 368, enabled = true)
+	@Description("Verifying amazon Slot Id for feed1 prerol ad call on killLaunch")
+	public void Smoke_Test_amazon_aaxSlot_feed1_preroladcall_killLaunch() throws Exception {
+		System.out.println(
+				"================= Verify amazon aax slot  Id for feed1 prerol adcall  testcase Started =========================");
+		logStep(" Verifying amazon aax slot Id for feed1");
+		Utils.verifyAAX_SlotId("Smoke", "Feed1");
+		System.out.println(
+				"================= Verify amazon aax slot Id for feed1 prerol adcall testcase End =========================");
+
+	}
+@Test(priority = 370, enabled = true)
+@Description("Verifying amazon Slot Id  video ad call preload")
+public void Smoke_Test_amazon_aax_preload_video_adcall() throws Exception {
+	System.out.println("================= Verify amazon aax video adcall Started =========================");
+	logStep(" Verifying preload amazon aax for  video details");
+	Utils.verifyAAX_SlotId("Smoke", "PreRollVideo");
+	System.out.println("================= Verify amazon aax video  adcall End =========================");
+}
+
+
+@Test(priority = 372, enabled = true)
+@Description("Verifying amazon Slot Id for feed2 prerol ad call on killLaunch")
+public void Smoke_Test_amazon_aaxSlot_feed2_preroladcall_KillLaunch() throws Exception {
+	System.out.println(
+			"================= Verify amazon aax slot  Id for feed2 prerol adcall testcase Started =========================");
+
+	logStep(" Verifying amazon aax slot Id for feed2");
+	Utils.verifyAAX_SlotId("Smoke", "Feed2");
+	System.out.println(
+			"================= Verify amazon aax slot Id for feed2 prerol adcall testcase End =========================");
+
+}
+
+
+@Test(priority = 374, enabled = true)
+@Description("Verifying amazon Slot Id for daily details preroll ad call")
+public void Smoke_Test_amazon_aax_Daily_details_preroll_adcall() throws Exception {
+	System.out.println(
+			"================= Verify amazon aax Daily details  preroll adcall Started =========================");
+	logStep(" Verifying preload amazon aax for  daily details");
+	Utils.verifyAAX_SlotId("Smoke", "DailyDetails");
+	System.out.println(
+			"================= Verify amazon aax Daily details preroll adcall End =========================");
+}
+
+
+
+
+
 
 
 
