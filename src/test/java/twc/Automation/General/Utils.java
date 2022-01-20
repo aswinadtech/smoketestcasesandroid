@@ -3813,7 +3813,9 @@ public class Utils extends Functions {
 		// "iu=%2F7646%2Fapp_iphone_us%2Fdb_display%2Fhome_screen%2Ftoday";
 		if (sheetName.equalsIgnoreCase("PreRollVideo")) {
 			iuId = videoIUValue;
-		} else {
+		} else if(sheetName.equalsIgnoreCase("DailyDetails")) {
+			iuId = data[11][1]+currentday1;
+		}else {
 			iuId = data[11][1];
 			System.out.println(data[11][1]);
 			//iuId = "iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly";
